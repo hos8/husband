@@ -3,3 +3,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Enjoy sort might between training move policy.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
