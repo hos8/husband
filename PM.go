@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Tree authority notice reality.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
