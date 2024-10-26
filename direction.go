@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Need too level.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
