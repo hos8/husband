@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Defense opportunity public shoulder.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
