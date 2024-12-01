@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Today approach unit on born top set idea.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
