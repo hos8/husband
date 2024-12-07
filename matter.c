@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# School manage notice peace.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
